@@ -19,21 +19,12 @@ Instalar los requisitos:
 ```bash
 pip install discord.py
 Uso
-Clonar el repositorio:
+1 Clonar el repositorio:
 
-bash
-Copiar código
-git clone https://github.com/tu_usuario/eco-bot.git
-Configurar tu bot de Discord:
 
-Crea un bot en el Portal de Desarrolladores de Discord.
+2 Crea un bot en el Portal de Desarrolladores de Discord.
 Copia tu API Token y reemplaza el valor de la variable api en el código con este token.
-Ejecutar el bot: Ejecuta el script Python para iniciar el bot:
-
-bash
-Copiar código
-python bot.py
-Cuando el bot esté en línea, podrás usar los siguientes comandos en tu servidor de Discord:
+Ejecutar el bot: Ejecuta el script Python para iniciar el bot
 
 $tip: Obtén un consejo ecológico.
 $compost: Aprende cómo empezar el compostaje en casa.
